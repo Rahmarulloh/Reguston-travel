@@ -1,0 +1,498 @@
+@media screen and (max-width: 1198.98px) {
+
+    * {
+        margin: 0;
+        padding: 0;
+    }
+
+    body {
+        overflow-x: hidden;
+        overflow-y: scroll;
+    }
+
+    .site {
+        width: 100%;
+        height: auto;
+    }
+
+    .site-header {
+        width: 100%;
+    }
+
+    .site__header-navbar {
+        display: flex;
+        margin-top: 30px;
+        margin-left: 150px;
+        align-items: center;
+        flex-direction: row;
+        justify-content: center;
+    }
+
+    .site__header-navbar ul {
+        flex-wrap: wrap;
+        margin-top: 10px;
+    }
+
+    .site__header-footer {
+        margin-left: auto;
+    }
+
+    .fa-arrow-left {
+        top: 600px;
+        margin-left: 5px;
+    }
+
+    .fa-arrow-rights {
+        top: 600px;
+        margin-right: 5px;
+    }
+
+    .imgcards-card:nth-child(6) {
+        top: 780px;
+    }
+
+    .clientopinion-qosh {
+        top: 190px;
+        left: 8px;
+    }
+
+    .clientopinion-qosh2 {
+        top: 330px;
+        right: 8px;
+    }
+
+    .clientopinion-opinion {
+        width: 899px;
+        height: 250px;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .opinion-img {
+        margin-top: 20px;
+    }
+
+    .opinion-texts {
+        margin-top: 20px;
+    }
+
+    .subscribe-title {
+        font-size: 32px;
+        margin-left: 25px;
+    }
+
+    .subscribe-btn {
+        margin-left: 15px;
+    }
+
+    .footer-aboutus .aboutus-title {
+        line-height: 50px;
+    }
+
+    .footer-followus .followus-title {
+        line-height: 40px;
+    }
+
+    .site-footer-copyright {
+        font-size: 20px;
+    }
+
+}
+
+@media screen and (max-width: 991.98px) {
+
+    .site__header-footer {
+        margin-left: auto;
+    }
+
+    .servises-about {
+        width: auto;
+        margin: 0 10px 0 10px;
+    }
+
+    .servises-about .about-title {
+        font-size: 50px;
+    }
+
+    .servises-about .about-desc {
+        font-size: 16px;   
+    }
+
+    .imgcards-card:nth-child(4) {
+        display: none;
+    }
+
+}
+
+@media screen and (max-width: 800.98px) {
+
+    .subscribe-title {
+        font-size: 22px;
+    }
+    
+}
+
+@media screen and (max-width: 768.98px) {
+
+    .site__header-navbar {
+        width: 600px;
+        margin-top: 40px;
+    }
+
+    .header__title-title {
+        font-size: 50px;
+    }
+
+    .header__title-desc {
+        font-style: 20px;
+    }
+
+    .header__title-btn {
+        width: 225px;
+        height: 48px;
+    }
+    
+    .site__header-footer {
+        margin-left: auto;
+    }
+
+    .header__footer-text {
+        font-style: 30px;
+    }
+
+    .header__footer-text span {
+        font-size: 16px;
+    }
+
+    .servises-about {
+        width: auto;
+        margin: 0 10px 0 10px;
+    }
+
+    .servises-about .about-title {
+        font-size: 50px;
+    }
+
+    .servises-about .about-desc {
+        font-size: 16px;   
+    }
+
+    .blog-title .title-title {
+        font-size: 50px;
+    }
+
+    .fa-arrow-left {
+        top: 260px;
+        left: -2px;
+        width: 180px;
+        display: flex;
+        height: 2000px;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .fa-arrow-rights {
+        right: -2px;
+        top: 260px;
+        width: 180px;
+        display: flex;
+        height: 2000px;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    .imgcards-card:nth-child(4) {
+        left: auto;
+        right: auto;
+        top: 1350px;
+        position: absolute; 
+    }
+
+    .blog-btn {
+        margin-top: 250px;
+    }
+
+    .clientopinion-opinion {
+        width: 650px;
+    }
+
+    .subscribe {
+        align-items: center;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .subscribe-title {
+        height: 80px;
+        font-size: 25px;
+        margin-top: -80px;
+    }
+
+    .subscribe-btn {
+        margin-right: 0px;
+    }
+
+    .footer {
+        height: auto;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        justify-content: center;
+    }
+
+}
+
+@media screen and (max-width: 712.98px) {
+    .imgcards-card:nth-child(6) {
+        top: 1600px;
+        left: 220px;
+    }
+}
+
+@media screen and (max-width: 640.98px) {
+    .imgcards-card:nth-child(6) {
+        left: 180px;
+    }
+
+    .subscribe-title {
+        font-style: 15px;
+    }
+
+}
+
+@media screen and (max-width: 600.98px) {
+
+    .header__title-title {
+        font-size: 45px;
+    }
+
+    .imgcards-card:nth-child(6) {
+        top: 1640px;
+        left: 160px;
+    }
+
+    .subscribe-title {
+        font-size: 20px;
+    }
+
+}
+
+@media screen and (max-width: 575.98px) {
+
+    .site__header-navbar {
+        width: auto;
+        margin-top: 20px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .site__header-navbar ul li:nth-child(7) {
+        margin-left: 69px;
+    }
+
+    .site__header-footer {
+        margin-left: auto;
+    }
+
+    .servises-about {
+        width: auto;
+        margin: 0 10px 0 10px;
+    }
+
+    .about-title {
+        font-size: 50px;
+    }
+
+    .fa-arrow-left {
+        left: -8px;
+        width: 90px;
+    }
+
+    .fa-arrow-rights {
+        right: -8px;
+        width: 90px;
+    }
+
+    .imgcards:nth-child(3) {
+        margin-top: 500px;
+    }
+
+    .imgcards-card:nth-child(4) {
+        left: auto;
+        right: auto;
+        top: 2074px;
+    }
+
+    .imgcards-card:nth-child(6) {
+        top: 1055px;
+        left: auto;
+        right: auto;
+    }
+
+    .blog-btn {
+        margin-top: 0px;
+    }
+
+    .clientopinion-opinion {
+        width: 450px;
+    }
+
+    .subscribe-title {
+        font-size: 20px;
+    }
+
+    .site-footer-copyright {
+        width: auto;
+        margin-left: 10px;
+        text-align: center;
+        margin-right: 10px;
+    }
+
+}
+
+@media screen and (max-width: 425.98px) {
+    .site-header .site__header-navbar {
+       margin-top: 40px;
+       margin-left: 40px;
+    }
+
+    .img-card {
+        width: 300px;
+    }
+
+    .imgs-img .fa-arrow-left {
+        font-size: 40px;
+        margin-top: 150px;
+    }
+
+    .imgs-img .fa-arrow-rights {
+        font-size: 40px;
+        margin-top: 150px;
+    }
+
+    .imgcards-card:nth-child(4) {
+        width: 286px;
+        height: 454px;
+        flex-direction: column;
+    }
+
+    
+    .imgcards-card:nth-child(4) .card-texts {
+        width: 170px;
+        height: 200px;
+        margin: 45px;
+        margin-left: 10px;
+    }
+
+    .blog-btn {
+        margin-top: 254px;
+    }
+
+    .clientopinion-opinion {
+        width: 286px;
+        height: 400px;
+        flex-direction: column;
+    }
+
+    .opinion-img {
+        margin-right: 1px;
+    }
+
+    .clientopinion-qosh2 {
+        top: 590px;
+    }
+    
+    #blog .blog-btn {
+        margin-top: -250px;
+    }
+
+}
+
+@media screen and (max-width: 414.98px) {
+
+    .subscribe {
+        height: 150px;
+    }
+
+    .subscribe-title {
+        font-size: 16px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 30px;
+    }
+
+    .subscribe-btn {
+        margin: auto;
+    }
+
+}
+
+@media screen and (max-width: 375.98px) {
+
+    body {
+        overflow-x: hidden;
+    }
+
+    .site__header-navbar {
+        display: none;
+    }
+
+    .site__header-title {
+        margin-top: 150px;
+    }
+
+    .subscribe {
+        height: 150px;
+    }
+
+    .subscribe-title {
+        font-size: 16px;
+        margin-right: 1px;
+        margin-left: 1px;
+        margin-bottom: auto;
+    }
+
+    .subscribe-btn {
+        margin: auto;
+    }
+
+}
+
+@media screen and (max-width: 360.98px) {
+    .subscribe-title {
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width: 320.98px) {
+
+    .header__title-title {
+        font-size: 40px;
+    }
+
+    .imgcards-card:nth-child(2) {
+        margin: auto;
+        margin-left: -20px;
+    }
+
+    .imgcards-card:nth-child(6) {
+        top: 1129px;
+    }
+
+    .imgcards:nth-child(3) {
+        margin-top: 666px;
+    }
+
+    .clientopinion-qosh{
+        top: 280px;
+    }
+
+    .clientopinion-qosh2 {
+        top: 660px;
+    }
+
+    .subscribe-title {
+        font-size: 13px;
+    }
+
+}
